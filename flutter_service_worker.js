@@ -31,7 +31,7 @@ const RESOURCES = {"canvaskit/skwasm.js": "1ef3ea3a0fec4569e5d531da25f34095",
 "main.dart.js": "c5b034f6da3bb8339d99512d3dbefa34",
 "version.json": "3046d6f2563c25f74992d6373aa94784",
 "ads.txt": "a0e4c7594b7ed3fba7ed4bed20d5137c",
-"assets/NOTICES": "c004c092690d6820de84010e283d090b",
+"assets/NOTICES": "813eefd9fcde577feaaba964f9a16ea4",
 "assets/AssetManifest.json": "33f054a8dff1eb883d81a5e4ef07577b",
 "assets/assets/mockups/phone_dark.png": "caeeae3beb6f779c2c9750859e87c037",
 "assets/assets/mockups/phone_light.png": "04dc682633e6b1955667e0a54c887779",
@@ -57,10 +57,10 @@ const RESOURCES = {"canvaskit/skwasm.js": "1ef3ea3a0fec4569e5d531da25f34095",
 "assets/AssetManifest.bin.json": "0bc97512087a18a9f98a8e28ffa2dce3",
 "assets/AssetManifest.bin": "d2c46dc779fadc422c0f98ad40781e87",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
-"flutter_bootstrap.js": "2a51ce5b940cad6be5cff2213b9ea786",
+"flutter_bootstrap.js": "e94a6f6e770b44d2374bf94f621e0ded",
 "favicon.ico": "ca3f0adf2bf95dd32dabb861f42099af",
-"index.html": "3066ee55dd70177f62f1df8fcce550cf",
-"/": "3066ee55dd70177f62f1df8fcce550cf"};
+"index.html": "acace0894115369b5e5634daa147cbc4",
+"/": "acace0894115369b5e5634daa147cbc4"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
